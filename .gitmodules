@@ -1,0 +1,3 @@
+[submodule "DotFiles"]
+	path = DotFiles
+	url = git@github.com:trojaj12/DotFiles.git
