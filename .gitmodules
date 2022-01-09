@@ -1,3 +1,6 @@
 [submodule "DotFiles"]
 	path = DotFiles
 	url = git@github.com:trojaj12/DotFiles.git
+[submodule "Install"]
+	path = Install
+	url = git@github.com:trojaj12/Install.git
